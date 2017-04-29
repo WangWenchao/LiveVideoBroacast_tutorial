@@ -1,6 +1,11 @@
 # rtmp_tutorial
 rtmp learn tutorial
+
+
 # build from source 
+
+ref : http://wiki.razuna.com/display/ecp/FFMpeg+Installation+on+CentOS+and+RedHat
+
 
 ```shell
 #!/bin/bash
