@@ -20,6 +20,8 @@ ref : http://wiki.razuna.com/display/ecp/FFMpeg+Installation+on+CentOS+and+RedHa
 
 # BasicKnowledge
 
+- https://xiph.org/
+
 - YUV https://zh.wikipedia.org/wiki/YUV  
 
 - http://silencewt.github.io/2015/04/29/YUV%E5%92%8CRGB%E6%A0%BC%E5%BC%8F%E5%88%86%E6%9E%90/
@@ -33,6 +35,7 @@ ref : http://wiki.razuna.com/display/ecp/FFMpeg+Installation+on+CentOS+and+RedHa
 - Aliyun
 - yfcloud.com
 - qiniu.com
+- xycdn.com
 
 
 # LiveVideoBroacast Hardware
