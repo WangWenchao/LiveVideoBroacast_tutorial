@@ -1,4 +1,4 @@
-## install ffmpeg
+## ffmpeg installation 
 
 ### 环境
 
