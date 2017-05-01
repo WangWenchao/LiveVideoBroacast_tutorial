@@ -177,7 +177,9 @@ hash -r
 Done ^^
 
 参考： 
+
 ffmpeg安装指南：https://trac.ffmpeg.org/wiki/CompilationGuide 
+
 ffmpeg安装指南（centos）：https://trac.ffmpeg.org/wiki/CompilationGuide/Centos
 
 ffmpeg Git地址：https://github.com/FFmpeg/FFmpeg
