@@ -1,4 +1,4 @@
-# LiveVideoBroacast tutorial
+# LiveVideoBroadcast tutorial
 rtmp learn tutorial
 
 
@@ -38,7 +38,7 @@ ref : http://wiki.razuna.com/display/ecp/FFMpeg+Installation+on+CentOS+and+RedHa
 - xycdn.com
 
 
-# LiveVideoBroacast Hardware
+# LiveVideoBroadcast Hardware
 
 科隆 http://caton.com.cn/CN/Products/ModeList?mode=2
 
